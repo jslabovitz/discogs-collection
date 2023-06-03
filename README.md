@@ -1,3 +1,3 @@
-# MusicBox
+# DiscogsCollection
 
 FIXME
